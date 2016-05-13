@@ -10,6 +10,9 @@ namespace Comet
 {
     public class CometAsyncResult :IAsyncResult
     {
+        /// <summary>
+        /// Httpcontext
+        /// </summary>
         private HttpContext context;
         private object extraData;
 
