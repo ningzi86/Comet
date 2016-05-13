@@ -1,0 +1,4 @@
+D:\03.代码相关\02.正式项目\项目测试\NziSolution\Comet\bin\Release\Comet.dll
+D:\03.代码相关\02.正式项目\项目测试\NziSolution\Comet\bin\Release\Comet.pdb
+D:\03.代码相关\02.正式项目\项目测试\NziSolution\Comet\obj\Release\Comet.dll
+D:\03.代码相关\02.正式项目\项目测试\NziSolution\Comet\obj\Release\Comet.pdb

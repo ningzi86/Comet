@@ -1,0 +1,7 @@
+D:\03.代码相关\02.正式项目\项目测试\NziSolution\Comet\bin\Debug\Comet.dll
+D:\03.代码相关\02.正式项目\项目测试\NziSolution\Comet\bin\Debug\Comet.pdb
+D:\03.代码相关\02.正式项目\项目测试\NziSolution\Comet\obj\Debug\Comet.dll
+D:\03.代码相关\02.正式项目\项目测试\NziSolution\Comet\obj\Debug\Comet.pdb
+D:\03.代码相关\02.正式项目\项目测试\NziSolution\Comet\bin\Debug\Newtonsoft.Json.dll
+D:\03.代码相关\02.正式项目\项目测试\NziSolution\Comet\bin\Debug\Newtonsoft.Json.xml
+D:\03.代码相关\02.正式项目\项目测试\NziSolution\Comet\obj\Debug\Comet.csprojResolveAssemblyReference.cache
