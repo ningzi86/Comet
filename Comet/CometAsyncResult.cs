@@ -13,7 +13,7 @@ namespace Comet
         private HttpContext context;
         private object extraData;
 
-
+          
         public CometAsyncResult( HttpContext context, AsyncCallback cb, object extraData )
         {
             this.context=context;
